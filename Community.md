@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Piyush Priyadarshi</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/thePiyushPriyadarshi</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/thepiyushpriyadarshi//</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Katihar Engineering College, Katihar</td>
+  </tr>
+</table>
